@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.the-shock.testtheme
+Name: TestTheme
+Depends: mobilesubstrate
+Version: 0.3
+Architecture: iphoneos-arm
+Description: Test theme by Shock.
+Maintainer: Shock <sam.hockham@outlook.com>
+Author: Shock <sam.hockham@outlook.com>
+Section: Themes
+Filename: ./debs/shocks-test-theme.theme.deb
+Depiction: https://github.com/The-Shock/shock/tree/master/depictions/com.the-shock.mathnplays
+Size: 7618
+
+
